@@ -1,0 +1,15 @@
+body {
+	width: 700px;
+	margin-left: 10%
+}
+.hypertext {
+	color: #252DCC;
+	text-decoration: none;
+}
+.hypertext_underline{
+	color: #252DCC;
+}
+.Greytext{
+	color: #707574;
+	text-align: center;
+}
